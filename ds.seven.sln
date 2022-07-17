@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ds.seven.core", "src\ds.seven.core\ds.seven.core.csproj", "{953381FE-9F86-487F-B9CD-10735FF3BB8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ds.seven.tests", "tests\ds.seven.tests\ds.seven.tests.csproj", "{F73970F4-41FF-4D6E-80C7-3F2085707364}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ds.seven.console", "src\ds.seven.console\ds.seven.console.csproj", "{B7389C6A-3411-47E7-8CC3-B5CDD35EBD92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{953381FE-9F86-487F-B9CD-10735FF3BB8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{953381FE-9F86-487F-B9CD-10735FF3BB8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{953381FE-9F86-487F-B9CD-10735FF3BB8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{953381FE-9F86-487F-B9CD-10735FF3BB8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F73970F4-41FF-4D6E-80C7-3F2085707364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F73970F4-41FF-4D6E-80C7-3F2085707364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F73970F4-41FF-4D6E-80C7-3F2085707364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F73970F4-41FF-4D6E-80C7-3F2085707364}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7389C6A-3411-47E7-8CC3-B5CDD35EBD92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7389C6A-3411-47E7-8CC3-B5CDD35EBD92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7389C6A-3411-47E7-8CC3-B5CDD35EBD92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7389C6A-3411-47E7-8CC3-B5CDD35EBD92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
